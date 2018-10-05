@@ -1,5 +1,5 @@
 import PackageDescription
 
 let package = Package(
-    name: "MarqueeLabel"
+    name: "MarqueeLabelSwift3"
 )
